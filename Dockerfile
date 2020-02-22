@@ -23,11 +23,11 @@ RUN apk add --no-cache=true --update \
     sqlite \
     sqlite-dev \
     sudo \
-    chromium \
+    chromium
     
   
 RUN python3 -m ensurepip \
-    && pip3 install --upgrade pip setuptools \
+    && pip3 install --upgrade pip setuptools
 
 
 #
