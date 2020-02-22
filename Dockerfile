@@ -33,7 +33,7 @@ RUN python3 -m ensurepip \
 #
 # Clone repo and prepare working directory
 #
-RUN git clone https://github.com/zlian17/telegram-sticker-downloader /root/tgsd
+RUN git clone https://github.com/zLian17/telegram-sticker-downloader /root/tgsd
 RUN mkdir /root/tgsd/bin/
 WORKDIR /root/tgsd/
 
