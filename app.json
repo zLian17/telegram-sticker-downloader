@@ -16,3 +16,14 @@
     "TOKEN": {
       "description": "Get this value from @botfather",
       "required": true
+    }
+  },
+  "addons": [
+    {
+      "plan": "heroku-postgresql",
+      "options": {
+        "version": "12"
+      }
+    }
+  ]
+}
