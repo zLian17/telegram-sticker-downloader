@@ -1,0 +1,18 @@
+{
+  "name": "Tg-Sticker",
+  "description": "Download tg sticker and port to others.",
+  "logo": "https://i.ibb.co/CzXcJ0S/photo-2020-01-28-23-32-03.jpg",
+  "keywords": [
+    "telegram",
+    "bot",
+    "plugin",
+    "sticker",
+    "port"
+  ],
+  "repository": "https://github.com/zlian17/telegram-sticker-downloader",
+  "success_url": "https://github.com/zlian17",
+  "stack": "container",
+  "env": {
+    "TOKEN": {
+      "description": "Get this value from @botfather",
+      "required": true
