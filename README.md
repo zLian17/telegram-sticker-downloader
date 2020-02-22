@@ -1,5 +1,6 @@
 ## Sticker Downloader for Telegram
 
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/zlian17/telegram-sticker-downloader"> <img src="https://telegra.ph/file/201297d05ee43dac02931.jpg" alt="Deploy to Heroku" /></a></p>
 This is a python script to download the sticker packs from Telegram. This script will download and convert the stickers into PNG images.
 
 NOTE: You need a telegram bot token to make use of the script. You can easily make a bot on the Telegram site.
